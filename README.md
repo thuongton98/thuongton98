@@ -9,3 +9,4 @@ challenging environment.
 - http://thuongton.net/
 - https://cv-thuong.herokuapp.com/
 - facebook.com/ton.that.thuong.98
+- https://www.linkedin.com/in/thuongton98/
